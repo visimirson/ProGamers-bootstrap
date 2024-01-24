@@ -4,4 +4,4 @@ This is the website of imaginary gamedev company ProGamers. Website was created 
 
 Technologies Project is created with:
 
-HTML, CSS, BootStrap, SASS, JS.
+HTML, CSS, BootStrap, SASS, JS, JQuery (SLICK).
